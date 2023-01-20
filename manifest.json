@@ -1,0 +1,69 @@
+{
+    "name": "I'm Vichea",
+    "short_name": "This is my  app",
+    "start_url" : ".",
+    "background_color" : "#6dcdb1",
+    "theme_color" : "#009578",
+    "display" : "fullscreen",
+    "prefer_related_applications": true,
+    "icons" : [
+        
+        {
+            "src":"img/icon-72x72.png",
+            "sizes":"72x72",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"img/icon-96x96.png",
+            "sizes":"96x96",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"img/icon-128x128.png",
+            "sizes":"128x128",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+       
+        {
+            "src":"img/icon-144x144.png",
+            "sizes":"144x144",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"img/icon-144x144.png",
+            "sizes":"any"
+        },
+        {
+            "src":"img/icon-152x152.png",
+            "sizes":"152x152",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },    
+        {
+            "src":"img/icon-192x192.png",
+            "sizes":"192x192",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"img/icon-384x384.png",
+            "sizes":"384x384",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"img/icon-512x512.png",
+            "sizes":"512x512",
+            "type":"img/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src":"img/icon-512x512.png",
+            "sizes":"any"
+        }
+    ]
+}
